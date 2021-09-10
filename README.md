@@ -1,4 +1,3 @@
-# anand-s_practice_code
+# Tuition Resources
 
-This is only anand's practice code.
-DOn't COPY IT.
+Code and other documentation used for imparting knowledge via classes.
